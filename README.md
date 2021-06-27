@@ -98,7 +98,7 @@ _이텔릭_
 
 ### 일반 링크
 
-[GOOGLE](https://www.google.com/)
+[Google](https://www.google.com/)
 
 ### title 옵션 추가 링크
 

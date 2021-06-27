@@ -98,15 +98,15 @@ _이텔릭_
 
 ### 일반 링크
 
-[GOOGLE](https://google.com)
+[GOOGLE](https://www.google.com/)
 
 ### title 옵션 추가 링크
 
-[NAVER](https://naver.com "NAVER로 이동!")
+[Google](https://www.google.com/ "Google로 이동!")
 
 ### 새 탭 열기 옵션 추가 링크
 
-<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
+[Google](https://www.google.com/){:target="\_blank"}
 
 <br />
 

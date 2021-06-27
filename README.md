@@ -1,4 +1,4 @@
-# :page_facing_up: 마크다운(Markdown)
+# :page_facing_up: 마크다운 가이드(Markdown Guide)
 
 1. [개요](#1-개요)
 2. [제목](#2-제목)

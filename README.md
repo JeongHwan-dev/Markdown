@@ -104,10 +104,6 @@ _이텔릭_
 
 [Google](https://www.google.com/ "Google로 이동!")
 
-### 새 탭 열기 옵션 추가 링크
-
-[Google](https://www.google.com/){:target="\_blank"}
-
 <br />
 
 ## 7. 이미지

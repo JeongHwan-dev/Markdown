@@ -7,8 +7,8 @@
 5. [목록](#5-목록)
 6. [링크](#6-링크)
 7. [이미지](#7-이미지)
-8. 인용문
-9. 코드 강조
+8. [인용문](#8-인용문)
+9. [코드 강조](#9-코드-강조)
 10. 표
 11. 원시 HTML, 수평선
 12. 원격 저장소에 Push
@@ -115,3 +115,55 @@ _이텔릭_
 ### 이미지에 링크 삽입
 
 [![Web-Development](https://t1.daumcdn.net/cfile/tistory/22564A3B564AAFD733)](https://blog.lgcns.com/959)
+
+<br />
+
+## 8. 인용문
+
+> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
+> (네이버 국어 사전)
+
+> 인용문을 작성하세요!
+>
+> > 중첩된 인용문
+> >
+> > > 중중첩된 인용문 1  
+> > > 중중첩된 인용문 2  
+> > > 중중첩된 인용문 3
+
+<br />
+
+## 9. 코드 강조
+
+### 인라인(inline) 코드 강조
+
+CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
+
+### 블록(block) 코드 강조
+
+```html
+<a href="https://www.google.co.kr/" target="_blank">Google</a>
+```
+
+```css
+.list > li {
+  position: absolute;
+  top: 40px;
+}
+```
+
+```javascript
+function func() {
+  var a = "AAA";
+  return a;
+}
+```
+
+```bash
+$ git commit -m 'Study Markdown'
+```
+
+```plaintext
+동해물과 백두산이 마르고 닳도록
+하느님이 보우하사 우리나라 만세
+```

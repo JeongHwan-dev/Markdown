@@ -1,6 +1,6 @@
 # :page_facing_up: 마크다운 가이드(Markdown Guide)
 
-## 1. 개요
+## 1. 개요(Outline)
 
 **마크다운(Markdown)** 은 일반 텍스트 기반의 **경량 마크업 언어**이다.
 

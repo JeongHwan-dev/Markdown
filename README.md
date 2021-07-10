@@ -1,6 +1,33 @@
-# :page_facing_up: 마크다운 가이드(Markdown Guide)
 
-## 1. 개요(Outline)
+
+<h1 align="center">
+   <br />
+   <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmLA2M%2FbtqyQ5HgNB6%2FKMCR4Qz7Z5EV2cYGLgKdW1%2Fimg.png" height=250px />
+   <br />
+   <br />
+   :page_facing_up: 마크다운 가이드(Markdown Guide)
+</h1>
+
+<br />
+
+## 목차
+
+1. **[개요](#개요)**
+2. **[제목](#제목)**
+3. **[줄바꿈](#줄바꿈)**
+4. **[강조](#강조)**
+5. **[목록](#목록)**
+6. **[링크](#링크)**
+7. **[이미지](#이미지)**
+8. **[인용문](#인용문)**
+9. **[코드 강조](#코드-강조)**
+10. **[표](#표)**
+11. **[원시 HTML](#원시-html)**
+12. **[수평선](#수평선)**
+
+<br />
+
+## 개요
 
 **마크다운(Markdown)** 은 일반 텍스트 기반의 **경량 마크업 언어**이다.
 
@@ -17,7 +44,7 @@
 
 <br />
 
-## 2. 제목(Header)
+## 제목
 
 # 제목 1
 
@@ -33,7 +60,7 @@
 
 <br />
 
-## 3. 문장(Paragraph), 줄바꿈(Line Breakers)
+## 줄바꿈
 
 동해물과 백두산이 마르고 닳도록  
 하느님이 보우하사 우리나라 만세  
@@ -47,7 +74,7 @@
 
 <br />
 
-## 4. 강조(Emphasis)
+## 강조
 
 _이텔릭_  
 **두껍게**  
@@ -57,7 +84,7 @@ _이텔릭_
 
 <br />
 
-## 5. 목록(List)
+## 목록
 
 1. 순서가 필요한 목록
 1. 순서가 필요한 목록
@@ -79,7 +106,7 @@ _이텔릭_
 
 <br />
 
-## 6. 링크(Links)
+## 링크
 
 ### 일반 링크
 
@@ -91,7 +118,7 @@ _이텔릭_
 
 <br />
 
-## 7. 이미지(Images)
+## 이미지
 
 ### 이미지 삽입
 
@@ -103,7 +130,7 @@ _이텔릭_
 
 <br />
 
-## 8. 인용문(BlockQuote)
+## 인용문
 
 > 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
 > (네이버 국어 사전)
@@ -118,7 +145,7 @@ _이텔릭_
 
 <br />
 
-## 9. 코드 강조(Code Emphasis)
+## 코드 강조
 
 ### 인라인(inline) 코드 강조
 
@@ -155,7 +182,7 @@ $ git commit -m 'Study Markdown'
 
 <br />
 
-## 10. 표(Table)
+## 표
 
 ### 왼쪽 정렬(기본값)
 
@@ -192,7 +219,7 @@ $ git commit -m 'Study Markdown'
 
 <br />
 
-## 11. 원시 HTML
+## 원시 HTML
 
 동해물과 <u>백두산</u>이 마르고 닳도록
 <br />
@@ -204,7 +231,7 @@ $ git commit -m 'Study Markdown'
 
 <br />
 
-## 12. 수평선 (Horizontal Rule)
+## 수평선
 
 ---
 

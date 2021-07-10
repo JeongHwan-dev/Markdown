@@ -2,7 +2,7 @@
 
 <h1 align="center">
    <br />
-   <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmLA2M%2FbtqyQ5HgNB6%2FKMCR4Qz7Z5EV2cYGLgKdW1%2Fimg.png" height=250px />
+   <img src="./markdown_logo.png" height=250px />
    <br />
    <br />
    :page_facing_up: 마크다운 가이드(Markdown Guide)

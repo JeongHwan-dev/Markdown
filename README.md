@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
    <br />
    <img src="./markdown_logo.png" height=250px />

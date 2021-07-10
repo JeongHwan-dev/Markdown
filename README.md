@@ -1,10 +1,10 @@
-<h1 align="center">
+<div align="center">
    <br />
    <img src="./markdown_logo.png" height=250px />
    <br />
    <br />
-   :page_facing_up: 마크다운 가이드(Markdown Guide)
-</h1>
+   <h1>:page_facing_up: 마크다운 가이드(Markdown Guide)</h1>
+</div>
 
 <br />
 

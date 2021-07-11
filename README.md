@@ -3,7 +3,7 @@
    <img src="./markdown_logo.png" height="200px" />
    <br />
    <br />
-   <h1>:page_facing_up: 마크다운 가이드(Markdown Guide)</h1>
+   <h1>:page_facing_up: 마크다운 가이드 (Markdown Guide)</h1>
 </div>
 
 <br />
